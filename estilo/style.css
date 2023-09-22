@@ -39,8 +39,7 @@ header{
     text-align: center;
     min-height: 150px;
     padding-top: 40px;
-    background-image: linear-gradient(to bottom, #3ddc84, #2fa866, #1a5c37);
-    
+    background-image: linear-gradient(to bottom, #3ddc84, #2fa866, #1a5c37);   
 }
 header > p {
     font-family: var(--fonte-padrao);
